@@ -1,4 +1,4 @@
-# IIC2143 - Ingeniería de Software 2022-1
+# IIC2143 - Ingeniería de Software 2022-2
 
 Bienvenido al sitio web del curso Ingeniería de Software. En esta página podrás encontrar la información administrativa del curso y en el repositorio podrás encontrar:
 * Los enunciados de las entregas.
@@ -7,7 +7,7 @@ Bienvenido al sitio web del curso Ingeniería de Software. En esta página podr�
 
 ## Tabla de contenidos
 
-- [IIC2143 - Ingeniería de Software](#iic2143---ingeniería-de-software.2022-1)
+- [IIC2143 - Ingeniería de Software](#iic2143---ingeniería-de-software.2022-2)
   - [Cuerpo Docente](#cuerpo-docente)
   - [Foro](#foro)
     - [Etiquetas](#etiquetas)
