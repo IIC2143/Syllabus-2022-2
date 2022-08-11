@@ -38,7 +38,7 @@ Bienvenido al sitio web del curso Ingeniería de Software. En esta página podr�
 | Andrés Castillo            | acastio@uc.cl            | [@acastill20](https://github.com/acastill20)                   |
 | Ignacio Porte              | ignacio.porte@uc.cl      | [@IgnacioPorte](https://github.com/IgnacioPorte)               |
 | Maximiliano Torres         | maximiliano.torres@uc.cl | [@Maxi1805](https://github.com/Maxi1805)                       |
-| Carlos Paredes             | cparedesr@uc.cl          | [@CarloGauss](https://github.com/CarloGauss)                   |
+| Carlos Paredes             | cparedesr@uc.cl          | [@CarloGauss33](https://github.com/CarloGauss33)                   |
 | Domingo Agüero             | domingo.aguero@uc.cl     | [@kunafuego](https://github.com/kunafuego)                     |
 | Lucas Fernández            | lucas.fernndez@uc.cl     | [@lfb1206](https://github.com/lfb1206)                         |
 | Vicente Cruz               | vcl@uc.cl                | [@vicente-cruz-labra](https://github.com/vicente-cruz-labra)   |
