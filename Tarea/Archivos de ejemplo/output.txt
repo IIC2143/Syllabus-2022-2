@@ -1,0 +1,43 @@
+SUPERMARKET Target 53514
+SUPERMARKET Amazon 42286
+SUPERMARKET Walmart 64288
+CLIENT Amb. Walter Ritchie 8733
+CLIENT Sen. Caren Bradtke 9824
+CLIENT Verdie Johnston 44420
+CLIENT Sen. Von Brakus 44141
+CLIENT Rev. Sanford Bernier 1408
+CLIENT Cliff Stehr DO 9208
+CLIENT Analisa Boyle 4133
+CLIENT Lory Bruen PhD 35540
+CLIENT Patsy Rogahn 21244
+CLIENT Gov. Nicola Auer 3720
+CLIENT Dr. Mario Pollich 3831
+CLIENT Rep. Deangelo Johns 2340
+CLIENT Refugia Hermiston LLD 4727
+CLIENT Gerard Kovacek 35765
+CLIENT Marth Hayes 10055
+CLIENT Mrs. Cecil Hudson 6872
+CLIENT Zachary Nikolaus MD 33200
+CLIENT Guillermina Bruen 26122
+CLIENT Belia Waelchi 38915
+CLIENT Ora Hahn 2460
+PRODUCT Small Silk Keyboard 232
+PRODUCT Durable Plastic Bag 262
+PRODUCT Synergistic Steel Knife 172
+PRODUCT Mediocre Steel Shirt 118
+PRODUCT Incredible Steel Table 114
+PRODUCT Awesome Paper Plate 140
+PRODUCT Enormous Concrete Clock 201
+PRODUCT Durable Granite Computer 147
+PRODUCT Rustic Wool Clock 136
+PRODUCT Heavy Duty Plastic Gloves 206
+PRODUCT Gorgeous Concrete Shirt 161
+PRODUCT Sleek Silk Keyboard 203
+PRODUCT Sleek Marble Gloves 120
+PRODUCT Lightweight Iron Plate 184
+PRODUCT Incredible Concrete Knife 190
+PRODUCT Heavy Duty Iron Wallet 54
+PRODUCT Aerodynamic Cotton Keyboard 87
+PRODUCT Aerodynamic Aluminum Computer 51
+PRODUCT Ergonomic Paper Shirt 203
+PRODUCT Synergistic Copper Computer 108
