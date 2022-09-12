@@ -5,3 +5,4 @@
 | Entrega  | Fecha |
 |----------|-------|
 | Sprint 0 | 09/09 |
+| Sprint 1 | 30/09 |
