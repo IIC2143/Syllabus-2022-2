@@ -21,8 +21,9 @@ Bienvenido al sitio web del curso Ingeniería de Software. En esta página podr�
 
 | Nombre                     | Email                   | Github                                         |
 |----------------------------|-------------------------|------------------------------------------------|
-| Maggie Muñoz (Docencia)    | maggie.munoz@uc.cl      | [@maggiemunoz](https://github.com/maggiemunoz) |
 | Martín Orrego (Proyectos)  | martinorregosilva@uc.cl | [@OrregoSilva](https://github.com/OrregoSilva) |
+| Moisés Retamal (Docencia)  | meretamal@uc.cl         | [@meretamal](https://github.com/meretamal)     |
+
 
 ### Ayudantes
 
@@ -33,12 +34,11 @@ Bienvenido al sitio web del curso Ingeniería de Software. En esta página podr�
 | Felipe Fuentes             | ffuentep@uc.cl           | [@felipefuentesporras](https://github.com/felipefuentesporras) |
 | Nicolás Barria             | nbarriav@uc.cl           | [@nbarriav](https://github.com/nbarriav)                       |
 | Juan Pablo Olivares        | jpolivares3@uc.cl        | [@JuPaOlivares](https://github.com/JuPaOlivares)               |
-| Moisés Retamal             | meretamal@uc.cl          | [@meretamal](https://github.com/meretamal)                     |
 | Joaquín Viñuela            | joaquin.vinuela@uc.cl    | [@Vinuelax](https://github.com/Vinuelax)                       |
 | Andrés Castillo            | acastio@uc.cl            | [@acastill20](https://github.com/acastill20)                   |
-| Ignacio Porte              | ignacio.porte@uc.cl      | [@IgnacioPorte](https://github.com/IgnacioPorte)               |
+| Vicente Thomas             | vicente.thomas@uc.cl     | [@vicentethomas](https://github.com/vicentethomas)             |
 | Maximiliano Torres         | maximiliano.torres@uc.cl | [@Maxi1805](https://github.com/Maxi1805)                       |
-| Carlos Paredes             | cparedesr@uc.cl          | [@CarloGauss33](https://github.com/CarloGauss33)                   |
+| Carlos Paredes             | cparedesr@uc.cl          | [@CarloGauss33](https://github.com/CarloGauss33)               |
 | Domingo Agüero             | domingo.aguero@uc.cl     | [@kunafuego](https://github.com/kunafuego)                     |
 | Lucas Fernández            | lucas.fernndez@uc.cl     | [@lfb1206](https://github.com/lfb1206)                         |
 | Vicente Cruz               | vcl@uc.cl                | [@vicente-cruz-labra](https://github.com/vicente-cruz-labra)   |
