@@ -1,7 +1,5 @@
 # Ayudantías
 
-## Capsulas
-
 | Capsula           | Formato   | Material | Pull Request | Link Grabación |
 |-------------------|-----------|----------|--------------|---------|
 | Github Projects 1 | Cápsula   | | | [LINK](https://drive.google.com/file/d/1dpycVBSnBwHjaJcAvO2EEP_7D7234Vtx/view?usp=sharing) |
