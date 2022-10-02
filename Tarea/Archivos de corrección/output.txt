@@ -1,0 +1,43 @@
+SUPERMARKET Walmart 18917
+SUPERMARKET Target 70821
+SUPERMARKET Jumbo 85204
+CLIENT Anglea Tromp JD 29508
+CLIENT Fr. Camila Sipes 25451
+CLIENT Estela Olson 646
+CLIENT The Hon. Donnell Reichel 15199
+CLIENT Cristal Borer IV 41850
+CLIENT Aisha Hessel 499
+CLIENT Tran Dietrich 35823
+CLIENT Dusty Donnelly 32191
+CLIENT Sen. Bernice Dibbert 33941
+CLIENT Jackie Reichert 41668
+CLIENT Dee Marks 43590
+CLIENT Robbie White 1815
+CLIENT Toccara Nolan 228
+CLIENT Tanja Waelchi 5622
+CLIENT Jesus Ward DO 181
+CLIENT Howard Shanahan 10544
+CLIENT Ollie Boyle MD 49398
+CLIENT Rep. Moshe Brekke 32665
+CLIENT Bianca Gleason 955
+CLIENT Moshe Nienow 9776
+PRODUCT Ergonomic Cotton Bench 111
+PRODUCT Synergistic Cotton Table 114
+PRODUCT Practical Cotton Bench 195
+PRODUCT Ergonomic Bronze Wallet 119
+PRODUCT Practical Leather Table 119
+PRODUCT Heavy Duty Silk Shoes 149
+PRODUCT Practical Cotton Coat 151
+PRODUCT Mediocre Copper Chair 83
+PRODUCT Heavy Duty Leather Shoes 222
+PRODUCT Sleek Wooden Pants 311
+PRODUCT Fantastic Leather Clock 216
+PRODUCT Rustic Leather Knife 187
+PRODUCT Practical Wooden Bottle 214
+PRODUCT Lightweight Plastic Lamp 192
+PRODUCT Heavy Duty Bronze Clock 156
+PRODUCT Fantastic Plastic Watch 153
+PRODUCT Heavy Duty Bronze Pants 72
+PRODUCT Heavy Duty Paper Chair 217
+PRODUCT Rustic Paper Watch 168
+PRODUCT Aerodynamic Paper Knife 136
